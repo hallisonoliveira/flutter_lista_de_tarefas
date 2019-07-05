@@ -10,5 +10,11 @@ Alguns detalhes utilizados no projeto:
 * SnackBar
 * Refresh Indicator
 
-### Screenshot
+### Screenshots
+
+![Screenshot 1](Screenshot_1.png)
+
+![Screenshot 1](Screenshot_2.png)
+
+![Screenshot 1](Screenshot_3.png)
 
